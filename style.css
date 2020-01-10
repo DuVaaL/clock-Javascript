@@ -4,7 +4,7 @@ html,body{
 }
 
 body{
-    background: url('img/font_color.jpg') center rgba(66, 40, 40, 0.7);
+    background: url('font_color.jpg') center rgba(66, 40, 40, 0.7);
     background-size: cover;
     display: flex;
     align-items: center;
